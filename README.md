@@ -32,7 +32,7 @@
 ### Инструкция по установке
 1. Клонировать репозиторий:
 ```bash
-   git clone https://github.com/yourrepo/furniture-materials-system.git
+   git clone [https://github.com/yourrepo/furniture-materials-system.git](https://github.com/slozhkai/DEM)
 
    cd furniture-materials-system
 ```
